@@ -17,4 +17,4 @@ steps:
       - "$_RUN_REGION"
       - "--image"
       - "$_ARTIFACT_REGION-docker.pkg.dev/$PROJECT_ID/my-repo/dockercloudbuildyaml"
-      - "jokes" 
+      - "jokes"
